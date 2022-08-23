@@ -1,0 +1,24 @@
+{% extends 'admin.twig' %}
+
+{% block content %}
+    <h1>Matomo endpoint</h1>
+    <br/>
+
+    Matomo collects data thanks to the following script/endpoint: 
+    <br/>
+    <strong>{{ instanceurl }}</strong>
+    <br/>
+    If you want to already see how data are collected within Matomo, just copy/paste the following url within a tab of your browser if your idsite is 1:
+    <br/>
+    <a href="{{ endpointready }}" target="_blank">{{ endpointready }}</a>
+    <br/>
+    You will then see your visit within the visits log report.
+    <br/>
+    You can add more parameters to this request in order to collect any data you want (ecommerce, events, goals) by looking at the 
+    <a href="https://developer.matomo.org/api-reference/tracking-api" target="_blank">Matomo API documentation.</a>
+{% endblock %}
+
+
+
+
+
