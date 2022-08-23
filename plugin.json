@@ -1,0 +1,29 @@
+{
+    "name": "Endpoint",
+    "description": "It allows you to see easily the Matomo endpoint for the HTTP tracking API.",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.12.0-b2,<5.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Ronan Chardonneau",
+            "email": "contact@ronan-chardonneau.com",
+            "homepage": ""
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "",
+        "forum": "",
+        "irc": "",
+        "wiki": "",
+        "source": "",
+        "docs": "",
+        "rss": ""
+    },
+    "homepage": "",
+    "license": "GPL v3+",
+    "keywords": [endpoint, http tracking api, http requests]
+}
