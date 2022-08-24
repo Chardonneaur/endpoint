@@ -1,5 +1,5 @@
 {
-    "name": "Endpoint",
+    "name": "endpoint",
     "description": "It allows you to see easily the Matomo endpoint for the HTTP tracking API.",
     "version": "0.1.3",
     "theme": false,
