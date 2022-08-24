@@ -15,7 +15,7 @@
     ],
     "support": {
         "email": "",
-        "issues": "",
+        "issues": "https://github.com/Chardonneaur/endpoint/issues",
         "forum": "",
         "irc": "",
         "wiki": "",
@@ -25,5 +25,5 @@
     },
     "homepage": "",
     "license": "GPL v3+",
-    "keywords": []
+    "keywords": ["endpoint", "http tracking api", "measurement protocol"]
 }
