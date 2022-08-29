@@ -1,10 +1,10 @@
 {
     "name": "Endpoint",
     "description": "It allows you to see easily the Matomo endpoint for the HTTP tracking API.",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "theme": false,
     "require": {
-        "matomo": ">=4.12.0-b2,<5.0.0-b1"
+        "matomo": ">=4.11.0,<5.0.0-b1"
     },
     "authors": [
         {
